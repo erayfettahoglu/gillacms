@@ -1,0 +1,24 @@
+{
+  "name":"LazPro",
+  "version":"1.0",
+  "description":"Get your website!",
+  "url":"https://www.instagram.com/erayprod/",
+  "options":{
+    "color":{
+      "default":"grey",
+      "type":"color"
+    },
+    "header-image":{
+      "type":"text"
+    },
+    "header-position":{
+      "type":"select",
+      "options":{"center":"Center","top":"Top","bottom":"Bottom"}
+    },
+    "footer-text":{
+    }
+  },
+  "require":{
+    "core":"1.12.5"
+  }
+}
